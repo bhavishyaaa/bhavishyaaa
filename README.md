@@ -2,8 +2,6 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently doing my grad in computer science
 - 💞️ I’m looking to collaborate on designing and coding relatied projects
-- 📫 How to reach me 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i am a guitar player still in learing stage
 
 <!---
