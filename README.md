@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bhavishyaaa
-- 👀 I’m interested in coding 
+- 👀 A data science enthusiast 
 - 🌱 I’m currently doing my grad in computer science
 - 💞️ I’m looking to collaborate on designing and coding relatied projects
-- ⚡ Fun fact: i am a guitar player still in learing stage
+- ⚡ Fun fact: my hobbies include playing guitar,sketching,doodling and dancing to calm my mind from stress
 
 <!---
 bhavishyaaa/bhavishyaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
